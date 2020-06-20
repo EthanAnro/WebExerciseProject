@@ -1,0 +1,5 @@
+{
+    "beautify.ignore": "",
+    "editor.renameOnType": true,
+    "files.autoSave": "onFocusChange"
+}
